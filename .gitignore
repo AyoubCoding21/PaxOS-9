@@ -1,8 +1,5 @@
 .DS_Store
-.pio
-.idea
+
 .vscode
 CMakeFiles
 CMakeCache.txt
-extern/**
-storage/apps/calendrier/data/20249.dat
